@@ -21,7 +21,7 @@ set -o nounset    # fail on unset variables
 HEROKU_TEAM_NAME=""
 
 # Descriptive name for the Heroku app
-HEROKU_APP_NAME="YOUR_APP_NAME"
+HEROKU_APP_NAME="jh62018"
 
 # Name of the Heroku apps you'll use
 HEROKU_DEV_APP_NAME="$HEROKU_APP_NAME-dev"
@@ -41,7 +41,7 @@ PROD_USERNAME="ProdOrg"
 GITHUB_REPO="CodeyTheBear/salesforce-dx-pipeline-sample"
 
 # Your package name from force:package:list
-PACKAGE_NAME="YOUR_PACKAGE_NAME"
+PACKAGE_NAME="MyPackage"
 
 ### Setup script
 
